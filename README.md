@@ -2,14 +2,11 @@ prometheus-exporter-chrometools
 ====
 
 Chromeのdevtoolを使ったURL監視用のexporterです
+
 ChromeのdevtoolのNetworkページに表示されているデータを取得してprometheusに渡します
+
 iframeやjsの発火、表示順によるユーザビリティの低下をモニタリングできます
 
-## Usage
-
-```
-make webui
-```
 
 ## Demo
 
